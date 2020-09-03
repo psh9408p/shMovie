@@ -1,6 +1,6 @@
 #SHMOVIE
 
-Learnibg React and ES6 building a Movie Discovery App.
+Learning React and ES6 building a Movie Discovery App.
 
 #Screens
 
@@ -8,3 +8,7 @@ Learnibg React and ES6 building a Movie Discovery App.
 - [ ] Tv Shows
 - [ ] Search
 - [ ] Detail
+
+## API Verbs
+
+-[ ] Now playing (Movie) -[ ] Upcomming (Movie) -[ ] Top Rated (Tv, Movie) -[ ] Popular (Tv, Movie) -[ ] Airing Today (TV) -[ ] TV Show Detail -[ ] Movie Detail
